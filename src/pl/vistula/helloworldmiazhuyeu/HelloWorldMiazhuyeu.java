@@ -5,10 +5,5 @@ public class HelloWorldMiazhuyeu {
 
         System.out.println ("Hello Vistula Miazhuyeu");
 
-        System.out.println ("Hello Vistula Miazhuyeu");
-
-        System.out.println ("Hello Vistula Miazhuyeu");
-
-
     }
 }
